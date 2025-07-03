@@ -16,7 +16,6 @@ The central thesis of this analysis should be to evaluate whether this portfolio
 
 The final output should be a detailed strategic memorandum. This document must synthesize all facets of the issue, including a rigorous assessment of the invention against the legal standards of novelty, non-obviousness, and patentable subject matter as defined by the USPTO. It should identify the strongest arguments for patentability, anticipate the most significant challenges and potential rejections from an examiner, and conclude with a clear, actionable recommendation on the viability and strategic wisdom of pursuing a patent.
 
-SPIL 2.1
 
 # Cognitive Forge v3.1: A Meta-Prompt for Automated SPIL Prompt Construction with Dynamic Reasoning Canvas, Adaptive Scientist Intervention, Architectural Transference, and Enhanced Validation
 
