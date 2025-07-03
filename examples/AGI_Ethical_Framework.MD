@@ -1,4 +1,4 @@
-I want you to design a spil prompt that will create an AGI ethical framework based on current cutting edge research, utilizing the spil cognitive framework as the software side of the AGIs cognitive reasoning engine.
+I want you to design a SPIL prompt that will create an AGI ethical framework based on current cutting-edge research, utilizing the SPIL cognitive framework as the software side of the AGI's cognitive reasoning engine.
 
 
 
