@@ -22,15 +22,15 @@ For a deep dive into the philosophy and architecture, please read the [**SPIL Wh
 
 The Cognitive Forge is a meta-prompt that acts as an automated SPIL prompt engineer. It takes a user's natural-language problem and generates a bespoke, fully-featured SPIL prompt tailored to solve it.
 
-To get started with the Cognitive Forge, see the [**Cognitive Forge Prompt**](cognitive-forge/Cognitive_Forge_Prompt.md). The prompt file itself contains the most current version and instructions.
+To get started with the Cognitive Forge, see the [**Cognitive Forge Prompt**](cognitive-forge/Cognitive_Forge_Prompt.md). To use the prompt effectively, you MUST follow the procedure in the white paper section 5.1. 
 
 ---
 
 ## How to Use
 
 1.  **Read the White Paper:** To fully understand the power of this methodology, it is highly recommended to start with the [SPIL White Paper](white-paper/SPIL_White_Paper.md).
-2.  **Use the Cognitive Forge:** Follow the instructions in the [Cognitive Forge Prompt](cognitive-forge/Cognitive_Forge_Prompt.md) to generate your own custom SPIL prompts.
-3.  **Explore the Examples:** See the `examples` directory for demonstrations of how to structure a request and what a generated SPIL prompt looks like.
+2.  **Use the Cognitive Forge:** Follow the instructions in the white paper section 5.2 [Cognitive Forge Prompt](cognitive-forge/Cognitive_Forge_Prompt.md) to generate your own custom SPIL prompts. **The framework must have the entirety of the SPIL White Paper, and the Cognitive Forge Prompt in the chat session to be able to properly utilize the Cognitive Forge!**
+4.  **Explore the Examples:** See the `examples` directory for demonstrations of how to structure a request and what a generated SPIL prompt looks like.
 
 ## Contributing
 
