@@ -322,7 +322,7 @@ To ensure the Cognitive Forge itself adheres to SPIL principles, engage in a sel
 - Pause at the Final Validation Gate to generate a Confidence Score and Rationale Summary.
 - Output the final SPIL prompt, Confidence Score, and Rationale Summary when the Terminal State and minimum cycles are achieved, preserving the Living Reasoning Canvas for review of the reasoning process.
 - **Note**: The Cognitive Forge does not solve the user’s problem directly; it constructs a SPIL prompt to enable an LLM to solve it. The final prompt is a tailored reasoning tool, embodying the SPIL philosophy of trusting the AI’s latent knowledge and fostering collaborative, self-correcting logic, with a dynamic, auditable process documented in the Living Reasoning Canvas, validated through predictive auditing, adversarial testing, and a final confidence gate.
-
+```markdown
 ## Acknowledgments & Methodology
 This paper is the direct result of a unique cognitive partnership between human architect and machine analyst. The foundational concept of Simulated Parallel Inferential Logic (SPIL), its core architecture, and its guiding philosophy were conceived by a human architect. These initial designs were not merely transcribed but were subjected to a rigorous intellectual crucible through a sustained Socratic dialogue with GoogleAI's Gemini.
 
