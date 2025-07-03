@@ -1,12 +1,14 @@
 # Cognitive Forge & Simulated Parallel Inferential Logic (SPIL)
 
-Welcome to the official repository for the **Cognitive Forge** and the **Simulated Parallel Inferential Logic (SPIL)** framework. This project is dedicated to providing an open-source, non-commercial framework for advanced AI-driven reasoning and prompt engineering.
+Welcome to the official repository for the **Cognitive Forge** and the **Simulated Parallel Inferential Logic (SPIL)** framework. This project is dedicated to providing a framework for advanced AI-driven reasoning and prompt engineering.
 
-## Core Tenets
+## Licensing
 
-* **Non-Commercial:** This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. It is free to use, share, and adapt for non-commercial purposes only. It cannot be monetized or sold.
-* **Open Source:** We believe in the power of community and welcome contributions.
-* **Trust in AI's Latent Knowledge:** The SPIL framework is designed to leverage the vast, untapped potential of Large Language Models without the constraints of "Example Anchoring."
+This project uses a **dual-licensing** model to balance community collaboration with sustainable development.
+
+* **Community & Open Source Use:** The framework is licensed under the **GNU Affero General Public License v3 (AGPLv3)**. You are free to use, modify, and share it and any derivatives, as long as you also share your modifications under the same license. See the [LICENSE](LICENSE) file for the full text.
+
+* **Proprietary & Commercial Use:** If you wish to use this framework in a closed-source or commercial product without the open-source obligations of the AGPLv3, you must obtain a separate commercial license. Please contact **TheHumanEngine@proton.me** to inquire.
 
 ---
 
