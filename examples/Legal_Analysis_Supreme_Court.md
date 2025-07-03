@@ -1,4 +1,4 @@
-Create a SPIL prompt to stress test the following executive order as though you are the Supreme Court hearing a case against it and its legality. I want to embody a deep analysis of it to ensure the various sides argue and counterargue their points, to try to find holes and then fill those holes with logical frameworks and law. Provide at least 3 rounds of GLFs (3 times the number of GLFs + 2 extra) temporal points.
+Create a SPIL prompt using the Cognitive Forge designed to stress test the following executive order as though you are the Supreme Court hearing a case against it and its legality. I want to embody a deep analysis of it to ensure the various sides argue and counterargue their points, to try to find holes and then fill those holes with logical frameworks and law. Provide at least 3 rounds of GLFs (3 times the number of GLFs + 2 extra) temporal points.
 
 REEVALUATING AND REALIGNING UNITED STATES FOREIGN AID
 The White House
