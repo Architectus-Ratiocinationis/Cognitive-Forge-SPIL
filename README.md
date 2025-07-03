@@ -16,7 +16,7 @@ This project uses a **dual-licensing** model to balance community collaboration 
 
 Simulated Parallel Inferential Logic (SPIL) is a framework for guiding a Large Language Model to simulate a sophisticated, multi-layered reasoning process. It enables an AI to manage multiple, distinct streams of logic simultaneously, making it ideal for complex problem-solving.
 
-For a deep dive into the philosophy and architecture, please read the [**SPIL White Paper**](white-paper/SPIL_White_Paper.md).
+For a deep dive into the philosophy and architecture, please read the [**SPIL White Paper**](white-paper/).
 
 ## What is the Cognitive Forge?
 
