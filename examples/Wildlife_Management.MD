@@ -1,0 +1,1 @@
+Design a sustainable ecosystem management plan for a wildlife preserve with rabbits, foxes, and a new variable: seasonal vegetation growth (v) that affects rabbit birth rates, and a 'human intervention' factor (h) like limited, selective hunting of foxes. The goal is to maximize biodiversity and ensure no species goes extinct over a 50-year period
