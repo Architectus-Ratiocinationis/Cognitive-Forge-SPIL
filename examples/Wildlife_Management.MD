@@ -1,4 +1,4 @@
-Design a sustainable ecosystem management plan for a wildlife preserve with rabbits, foxes, and a new variable: seasonal vegetation growth (v) that affects rabbit birth rates, and a 'human intervention' factor (h) like limited, selective hunting of foxes. The goal is to maximize biodiversity and ensure no species goes extinct over a 50-year period
+Create a SPIL prompt using the Cognitive Forge that will design a sustainable ecosystem management plan for a wildlife preserve with rabbits, foxes, and a new variable: seasonal vegetation growth (v) that affects rabbit birth rates, and a 'human intervention' factor (h) like limited, selective hunting of foxes. The goal is to maximize biodiversity and ensure no species goes extinct over a 50-year period
 
 
 # Cognitive Forge v3.1: A Meta-Prompt for Automated SPIL Prompt Construction with Dynamic Reasoning Canvas, Adaptive Scientist Intervention, Architectural Transference, and Enhanced Validation
