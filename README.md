@@ -39,8 +39,7 @@ To make using the Cognitive Forge easier, this repository includes a ready-to-us
 
 ## Examples
 
-The `examples` directory contains concrete demonstrations of the entire process. You will find examples of:
-* **User Requests:** Clearly formulated problems given to the Cognitive Forge.
+The `examples` directory contains concrete examples for use cases containing clearly formulated problems given to the Cognitive Forge.
 
 # A Guide to Best Practices for the Cognitive Forge & SPIL Framework
 
