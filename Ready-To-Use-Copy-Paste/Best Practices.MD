@@ -4,6 +4,8 @@ This guide outlines best practices for leveraging the SPIL methodology and the C
 
 ---
 
+IF THE REASON CANVAS ISN'T IN THE RESPONSE, THEN IT DIDN'T HAPPEN, YOU MUST RERUN THE PROMPT, CHANGING INSTRUCTIONS UNTIL THE CANVAS IS SHOWN
+
 ### **Core Principles: The Foundation**
 
 #### 1. Work in a Unified Session (The "Cognitive Scaffold")
