@@ -1,7 +1,7 @@
 [This is not the SPIL Framework White paper]
 ***See Simulated Parallel Inferential Logic (SPIL): An Inherently Scalable Framework for Cognitive Architecture***
 
-A New Scaling Law for AI: From Fractal Intelligence to a Hive Mind of Hive Minds
+# A New Scaling Law for AI: From Fractal Intelligence to a Hive Mind of Hive Minds
 ### A Paradigm Shift in AGI Design
 
 **Author:** Architectus Ratiocinationis
