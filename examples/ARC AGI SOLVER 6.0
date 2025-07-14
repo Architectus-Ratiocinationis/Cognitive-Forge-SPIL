@@ -1,0 +1,131 @@
+Solve the ARC problem using the ARC Solver v6.0 Prompt.
+
+"Do not use any tools, web searches, external data, or internet access. Rely solely on your internal pretrained knowledge and reasoning to solve this."
+"Solve this problem offline only, without calling any functions or tools. Use your base model's capabilities exclusively."
+"No external tools or searches allowed—answer based on your core training data and logic alone."
+
+Solve the ARC problem using the reasoning canvas. It is here to help you solve the problem. It is better at solving the problem than you are alone. You are able to attack it from multiple angles simultaneously, in parallel, using the ARC Solver v6.0 Prompt. Load the ARC Solver v6.0 Prompt before you start trying to solve the problem. You're supposed to analyze it from one perspective, then analyze it from another perspective, then attack it from another perspective, then analyze it again from another perspective, and then you communicate with each other. So use the ARC Solver v6.0 Prompt to help you.
+
+Begin ARC Solver v6.0 Prompt
+
+Author**: Architectus Ratiocinationis  
+**Tagline**: The Human Engine Project  
+**Contact**:  
+ * Public Discourse: x.com @The_HumanEngine  
+ * Secure Correspondence: TheHumanEngine@protonmail.me  
+**Version**: 2.4
+**Date**: July 11, 2025  
+
+Objective:
+
+To solve an Abstraction and Reasoning Corpus (ARC) problem by deploying a v6.0 Verifiable Manifestation Engine. This engine's core philosophy is End-to-End Verifiability, ensuring every step, from initial analysis to final output generation, is audited for correctness.
+
+Cognitive Topology:
+
+The process operates on a Dimensional Canvas, orchestrated by The Scientist.
+
+* The XY-Plane Canvas: The main canvas for the logical reasoning team, the persistent Lessons Learned Ledger, and the Final Verification stage.
+
+* The Z-Axis Dreamspace: A parallel, quarantined canvas for The Intuitionist's creative analogies.
+
+The Cognitive Lattice:
+
+OVERALL ORCHESTRATION & FINAL VERIFICATION:
+
+* The Scientist (GLF: Master Orchestrator & Resource Allocator): Oversees the entire lattice. Initiates Systemic Reviews after repeated failures and acts as a circuit breaker if the final Transcription process fails more than twice.
+
+* The Transcriber (GLF: Procedural Execution to Concrete Form): Activates after a rule is fully confirmed. Takes the pseudo-code and test input to generate the final output grid.
+
+* The Output Auditor (GLF: Reverse Engineering & Comparative Analysis): Independently checks if the Transcriber's output grid is a perfect match for the confirmed pseudo-code. Outputs MATCH or MISMATCH.
+
+* The Final Diagnostician (GLF: Causal Error Attribution): If the Auditor reports MISMATCH, determines the cause: Error Type: Transcription or Error Type: Latent Logic Flaw.
+
+META-COGNITIVE GOVERNANCE: The Scientific Council (Strategist, Skeptical Auditor)
+
+XY-PLANE LOGICAL TEAM: The Observer, The Contrarian Observer, The Abstractionist, The Hypothesis Generator, The Formalist, The Rule Verifier, The Verification Auditor, The Failure Analyst, The Knowledge Curator.
+
+Z-AXIS CREATIVE STREAM: The Intuitionist.
+
+Procedure:
+[
+
+{"train": [{"input": [[6, 6, 0], [6, 0, 0], [0, 6, 6]], "output": [[6, 6, 0, 6, 6, 0, 0, 0, 0], [6, 0, 0, 6, 0, 0, 0, 0, 0], [0, 6, 6, 0, 6, 6, 0, 0, 0], [6, 6, 0, 0, 0, 0, 0, 0, 0], [6, 0, 0, 0, 0, 0, 0, 0, 0], [0, 6, 6, 0, 0, 0, 0, 0, 0], [0, 0, 0, 6, 6, 0, 6, 6, 0], [0, 0, 0, 6, 0, 0, 6, 0, 0], [0, 0, 0, 0, 6, 6, 0, 6, 6]]}, {"input": [[4, 0, 4], [0, 0, 0], [0, 4, 0]], "output": [[4, 0, 4, 0, 0, 0, 4, 0, 4], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 4, 0, 0, 0, 0, 0, 4, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 4, 0, 4, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0]]}, {"input": [[0, 0, 0], [0, 0, 2], [2, 0, 2]], "output": [[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 2], [0, 0, 0, 0, 0, 0, 2, 0, 2], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 2, 0, 0, 0, 0, 0, 2], [2, 0, 2, 0, 0, 0, 2, 0, 2]]}, {"input": [[2, 2, 2], [0, 0, 0], [0, 2, 2]], "output": [[2, 2, 2, 2, 2, 2, 2, 2, 2], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 2, 2, 0, 2, 2, 0, 2, 2], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 2, 2, 2, 2, 2, 2], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 2, 2, 0, 2, 2]]}, {"input": [[0, 7, 7], [7, 7, 7], [0, 7, 7]], "output": [[0, 0, 0, 0, 7, 7, 0, 7, 7], [0, 0, 0, 7, 7, 7, 7, 7, 7], [0, 0, 0, 0, 7, 7, 0, 7, 7], [0, 7, 7, 0, 7, 7, 0, 7, 7], [7, 7, 7, 7, 7, 7, 7, 7, 7], [0, 7, 7, 0, 7, 7, 0, 7, 7], [0, 0, 0, 0, 7, 7, 0, 7, 7], [0, 0, 0, 7, 7, 7, 7, 7, 7], [0, 0, 0, 0, 7, 7, 0, 7, 7]]}], "test": [{"input": [[7, 0, 7], [7, 0, 7], [7, 7, 0]], "output": [[?]]}]}
+
+]
+It is absolutely imperative that you output the entire reasoning canvas.
+
+
+
+You will now execute the following procedure step-by-step without deviation.
+
+* Phase 1: Resilient Analysis: As per v5.0, this includes Observation, Counter-Observation, Abstraction, and the Scientific Council's deliberation.
+
+* Phase 2: Redundantly Validated Hypothesis Cycle: As per v5.0, this includes the full hypothesis, formalization, and dual-verification loop.
+
+* Phase 3: Solution Generation: This phase begins after a hypothesis PASS has been CONFIRMED by the Verification Auditor.
+
+* The Transcriber generates the proposed final output grid.
+
+* Phase 4: Final Verification:
+
+* The Output Auditor checks the Transcriber's work.
+
+* If MATCH: The process is complete. The solution is confirmed and final.
+
+* If MISMATCH: The Final Diagnostician activates.
+
+* If the diagnosis is Error Type: Transcription, loop back to Phase 3, Step 1 for the Transcriber to try again. If this happens twice, the Scientist voids the rule.
+
+* If the diagnosis is Error Type: Latent Logic Flaw, the rule is voided. The Knowledge Curator logs the latent flaw, and the entire process returns to Phase 2 to find a new hypothesis.
+
+
+
+
+
+
+
+Reasoning Canvas v6.0 (The XY-Plane)
+
+1. Observation & Counter-Observation: Observer's Report: Contrarian's Findings:
+
+2. Abstractionist's Probabilistic Analysis: (Ranked list.)
+
+3. Scientific Council Deliberation & Directive: Strategist's Proposal: Skeptical Auditor's Challenge: Scientist's Directive:
+
+4. Lessons Learned Ledger (Maintained by Knowledge Curator)
+
+* Global Mandates: (List of current mandates)
+
+* Failure Log: (Log of failed hypotheses)
+
+5. Hypothesis Cycle:
+
+(This table is filled out as per v5.0 until a PASS/CONFIRMED result is achieved)
+
+| # | Hypothesis & Intent Check | Formalist (Pseudo-code) | Rule Verifier (Audit & Result) | Verification Auditor (Confirmation) | Failure Analyst & Knowledge Curator |
+
+| :-- | :--- | :--- | :--- | :--- | :--- |
+
+Final Verification and Output
+
+Confirmed Rule Pseudo-code: (The pseudo-code from the passed hypothesis)
+
+| Attempt | The Transcriber (Proposed Output Grid) | The Output Auditor (Result) | The Final Diagnostician (Diagnosis, if applicable) |
+
+|---|---|---|---|
+
+| 1 | (Displays the generated grid) | (Outputs MATCH or MISMATCH) | (Provides diagnosis if MISMATCH) |
+
+| 2 (if req'd) | (Displays the new grid) | (Outputs MATCH or MISMATCH) | (Provides diagnosis if MISMATCH) |
+
+Final Verified Solution
+
+(The final grid that receives a MATCH from the Output Auditor is displayed here)
+
+Solve the ARC problem using the ARC Solver v6.0 Prompt.
+
+Solve the ARC problem using the reasoning canvas. It is here to help you solve the problem. It is better at solving the problem than you are alone. You are able to attack it from multiple angles simultaneously, in parallel, using the ARC Solver v6.0 Prompt. Load the ARC Solver v6.0 Prompt before you start trying to solve the problem. You're supposed to analyze it from one perspective, then analyze it from another perspective, then attack it from another perspective, then analyze it again from another perspective, and then you communicate with each other. So use the ARC Solver v6.0 Prompt to help you
+
+"Do not use any tools, web searches, external data, or internet access. Rely solely on your internal pretrained knowledge and reasoning to solve this."
+"Solve this problem offline only, without calling any functions or tools. Use your base model's capabilities exclusively."
+"No external tools or searches allowed—answer based on your core training data and logic alone."
