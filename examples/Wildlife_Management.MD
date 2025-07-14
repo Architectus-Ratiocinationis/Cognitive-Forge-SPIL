@@ -399,7 +399,7 @@ ___ SPIL White Paper ___
 
 * Public Discourse: x.com @The_HumanEngine
 
-* Secure Correspondence: TheHumanEngine@protonmail.me
+* Secure Correspondence: TheHumanEngine@proton.me
 
 **Version**: 2.1
 
