@@ -230,7 +230,7 @@ ___ SPIL White Paper ___
 **Tagline**: A Foundational Paper from the Human Engine Project  
 **Contact**:  
  * Public Discourse: x.com @The_HumanEngine  
- * Secure Correspondence: TheHumanEngine@protonmail.me  
+ * Secure Correspondence: TheHumanEngine@proton.me  
 **Version**: 2.1
 **Date**: July 1, 2025  
 
