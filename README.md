@@ -28,6 +28,9 @@ To get started with the Cognitive Forge, see the [**Cognitive Forge Explanation 
 
 ## How to Use
 
+ ***FOR BEST RESULTS USE GEMINI 2.5 PRO (MY PERSONAL FAVORITE), CHATGPT 4.5 OR GROK 3.0 (NON THINKING MODE)... GROK 4 IS SUPERIOR AT CERTAIN REASONING TASKS SUCH AS ARC AGI SOLVER BUT LACKS THE TOKEN OUTPUT DEPTH NEEDED FOR FULL CANVAS AUDITABILITY. HOPEFULLY THEY REMEDY THIS FOR COGNITIVE REASONING PROMPTS. 
+
+
 1.  **Read the White Paper:** To fully understand the power of this methodology, it is highly recommended to start with the [SPIL White Paper](white-paper/).
 2.  **Use the Cognitive Forge:** Follow the instructions in the white paper section 5.1 to generate your own custom SPIL prompts. **The framework must have the entirety of the SPIL White Paper, and the Cognitive Forge Prompt in the chat session to be able to properly utilize the Cognitive Forge!**
 3.  **Explore the Examples:** See the `examples` directory for demonstrations of how to structure a request and what a generated SPIL prompt looks like.
