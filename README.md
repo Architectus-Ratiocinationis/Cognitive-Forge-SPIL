@@ -35,7 +35,7 @@ To get started with the Cognitive Forge, see the [**Cognitive Forge Explanation 
 
 ## Ready-to-Use Tools
 
-To make using the Cognitive Forge easier, this repository includes a ready-to-use Markdown file in the `ready-to-use-tools` directory. This file bundles all the necessary components into a single, copy-and-paste format. It contains the complete SPIL White Paper and the Cognitive Forge v3.1 prompt, with a designated section for you to insert your specific request. Following the procedure outlined in the white paper, you can copy the entire contents of this file into a new chat session to initiate the Forge.
+To make using the Cognitive Forge easier, this repository includes a ready-to-use Markdown file in the `ready-to-use-tools` directory. This file bundles all the necessary components into a single, copy-and-paste format. It contains the complete SPIL White Paper and the Cognitive Forge prompt, with a designated section for you to insert your specific request. Following the procedure outlined in the white paper, you can copy the entire contents of this file into a new chat session to initiate the Forge.
 
 ## Examples
 
