@@ -35,7 +35,7 @@ Information Fidelity: The "project manager" model only sees the final text outpu
 
 Architectural Flexibility: Most enterprise agent systems use a static roster of pre-defined agents. The Cognitive Forge acts as a "factory" for the hive mind, dynamically generating a completely bespoke team of expert personas perfectly tailored to the unique demands of any given problem on the fly.
 
-Recursive Potential: Because the entire "hive mind" exists within the LLM's own reasoning process, it enables true architectural recursion—a hive mind capable of instantiating other, more specialized hive minds within itself ("fractal intelligence"). This is structurally impossible for externally orchestrated agent systems.
+Recursive Potential: Because the entire "hive mind" exists within the LLM's own reasoning process, it enables true architectural recursion—a hive mind capable of instantiating other, more specialized hive minds within itself ("fractal intelligence" See (white-paper/Fractal Intelligence-A Future Proof AI Framework.MD)). This is structurally impossible for externally orchestrated agent systems.
 
 ---
 
